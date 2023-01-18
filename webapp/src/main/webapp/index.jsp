@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1> new user code done by GURURAJ SINGH status register</h1>
+    <h1> new user hi appu status register</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
 
